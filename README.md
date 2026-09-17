@@ -14,7 +14,7 @@ Are property prices in Mexico more influenced by property size or by location?
 - **But location alone explains only ~12% of total price-per-m² variation nationally** — size and other within-state factors account for the majority of the variation.
 - **Controlling for size cut "unexplained" within-state variance nearly in half** (78.3% → 38.5%), showing that a large share of what looked like noise was actually size differences in disguise.
 
-**Bottom line:** neither size nor location dominates outright. Location sets a meaningful floor/ceiling on price per m², but most of the actual variation happens *within* a given state — and a good chunk of that is size, not randomness. The honest answer is: both matter, and pretending one factor "wins" oversimplifies what the data shows.
+**Bottom line:** neither size nor location dominates outright. Location sets a meaningful floor/ceiling on price per m², but most of the actual variation happens *within* a given state, and a good chunk of that is size, not randomness. The honest answer is: both matter, and pretending one factor "wins" oversimplifies what the data shows.
 
 ## 📊 Project Structure
 notebooks/
