@@ -16,6 +16,14 @@ Are property prices in Mexico more influenced by property size or by location?
 
 **Bottom line:** neither size nor location dominates outright. Location sets a meaningful floor/ceiling on price per m², but most of the actual variation happens *within* a given state, and a good chunk of that is size, not randomness. The honest answer is: both matter, and pretending one factor "wins" oversimplifies what the data shows.
 
+## 📈 Key Visuals
+
+![Area vs. Price with Trendline](images/area_vs_price_trendline.png)
+*Size and price move together — but with heavy scatter, meaning size alone leaves much of the variation unexplained.*
+
+![Price per m² by State](images/price_per_m2_by_state.png)
+*Price per square meter varies dramatically by state — the most and least expensive states barely overlap.*
+
 ## 📊 Project Structure
 notebooks/
 ├── 01_data_cleaning.ipynb # Merging 3 raw CSVs, fixing currency strings, parsing lat-lon
